@@ -1,0 +1,22 @@
+{
+  "name": "vine-jsx",
+  "version": "1.0.3",
+  "description": "JSX library",
+  "main": "lib/JSX/vine.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vinary",
+    "vinary-jsx"
+  ],
+  "author": "Rishom Rozario",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "min-document": "^2.19.0"
+  }
+}
