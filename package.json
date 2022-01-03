@@ -1,14 +1,12 @@
 {
   "name": "vine-jsx",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "JSX library",
   "main": "lib/JSX/vine.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "vinary",
     "vinary-jsx"
